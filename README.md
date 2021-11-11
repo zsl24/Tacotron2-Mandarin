@@ -33,6 +33,8 @@ Generate mel-spectrogram for text "相对论直接和间接的催生了量子力
 ```bash
 $ python demo.py
 ```
+Pre-trained Tacotron2 model: https://github.com/foamliu/Tacotron2-Mandarin/releases/download/v1.0/tacotron2-cn.pt   
+Pre-trained WaveGlow model: https://drive.google.com/open?id=1rpK8CzAAirq9sWZhe9nlfvxMF1dRgFbF   
 ![image](https://github.com/foamliu/Tacotron2-CN/raw/master/images/mel_spec.jpg)
 
 
